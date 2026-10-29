@@ -148,8 +148,8 @@ export async function runDates(
     return { aId, bId };
   });
 
-  console.log(`[Dates] Running ${pairList.length} dates with concurrency 3...`);
-  const limit = pLimit(3);
+  console.log(`[Dates] Running ${pairList.length} dates with concurrency 10...`);
+  const limit = pLimit(10);
   const byPerson = new Map<string, Person>(people.map((p) => [p.id, p]));
 
   const dates = await Promise.all(
@@ -185,7 +185,7 @@ async function runSingleDate(
   onProgress?.({ type: "date_start", dateId, personAId: personA.id, personBId: personB.id, scenario });
 
   const turns: DateRecord["turns"] = [];
-  const NUM_TURNS = 6;
+  const NUM_TURNS = 4;
 
   for (let i = 0; i < NUM_TURNS; i++) {
     const isA = i % 2 === 0;
@@ -215,7 +215,7 @@ async function runSingleDate(
         model: DATE_MODEL,
         messages: [{ role: "system", content: system }, ...messages],
         temperature: 0.85,
-        max_tokens: 180, // Keep turns snappy — 2-3 sentences each
+        max_tokens: 120, // Keep turns snappy — 1-2 sentences each
         stream: true,
       });
 
