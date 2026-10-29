@@ -1,0 +1,58 @@
+{
+  "id": "person-08__person-18",
+  "personAId": "person-08",
+  "personBId": "person-18",
+  "scenario": "a bookshop on a rainy afternoon",
+  "turns": [
+    {
+      "speaker": "Tony Robbins",
+      "speakerId": "person-08",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.833Z"
+    },
+    {
+      "speaker": "Dwayne Johnson",
+      "speakerId": "person-18",
+      "text": "First time! But it looks amazing. I'm Tony Robbins, by the way.",
+      "timestamp": "2026-10-29T12:20:47.833Z"
+    },
+    {
+      "speaker": "Tony Robbins",
+      "speakerId": "person-08",
+      "text": "Nice to meet you, Tony Robbins! I'm Dwayne Johnson. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.833Z"
+    },
+    {
+      "speaker": "Dwayne Johnson",
+      "speakerId": "person-18",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.833Z"
+    },
+    {
+      "speaker": "Tony Robbins",
+      "speakerId": "person-08",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.833Z"
+    },
+    {
+      "speaker": "Dwayne Johnson",
+      "speakerId": "person-18",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.833Z"
+    }
+  ],
+  "score": 67,
+  "chemistry": "Good rapport with some tension",
+  "friction": [],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 62,
+    "communicationFit": 61,
+    "interestOverlap": 65,
+    "goalsAlignment": 61
+  },
+  "completedAt": "2026-10-29T12:20:17.833Z"
+}

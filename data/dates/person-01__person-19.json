@@ -1,0 +1,61 @@
+{
+  "id": "person-19__person-01",
+  "personAId": "person-19",
+  "personBId": "person-01",
+  "scenario": "a farmer's market on Sunday morning",
+  "turns": [
+    {
+      "speaker": "Beyoncé",
+      "speakerId": "person-19",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.940Z"
+    },
+    {
+      "speaker": "Mel Robbins",
+      "speakerId": "person-01",
+      "text": "First time! But it looks amazing. I'm Beyoncé, by the way.",
+      "timestamp": "2026-10-29T12:20:47.940Z"
+    },
+    {
+      "speaker": "Beyoncé",
+      "speakerId": "person-19",
+      "text": "Nice to meet you, Beyoncé! I'm Mel Robbins. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.940Z"
+    },
+    {
+      "speaker": "Mel Robbins",
+      "speakerId": "person-01",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.940Z"
+    },
+    {
+      "speaker": "Beyoncé",
+      "speakerId": "person-19",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.940Z"
+    },
+    {
+      "speaker": "Mel Robbins",
+      "speakerId": "person-01",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.940Z"
+    }
+  ],
+  "score": 53,
+  "chemistry": "Mild connection, needs more time",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Interesting dynamic, but could be challenging",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 71,
+    "communicationFit": 78,
+    "interestOverlap": 79,
+    "goalsAlignment": 61
+  },
+  "completedAt": "2026-10-29T12:20:17.940Z"
+}

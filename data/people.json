@@ -1,0 +1,4152 @@
+[
+  {
+    "name": "Mel Robbins",
+    "linkedinUrl": "https://www.linkedin.com/in/melrobbins",
+    "instagramUrl": "https://www.instagram.com/melrobbins",
+    "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Mel Robbins",
+        "headline": "Mel | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "melrobbins",
+        "fullName": "Mel Robbins",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 77743,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-01",
+    "profile": {
+      "summary": "Passionate Mel who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.742Z"
+  },
+  {
+    "name": "Gary Vaynerchuk",
+    "linkedinUrl": "https://www.linkedin.com/in/garyvaynerchuk",
+    "instagramUrl": "https://www.instagram.com/garyvee",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Gary Vaynerchuk",
+        "headline": "Gary | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "garyvaynerchuk",
+        "fullName": "Gary Vaynerchuk",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 276147,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-02",
+    "profile": {
+      "summary": "Passionate Gary who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.761Z"
+  },
+  {
+    "name": "Arianna Huffington",
+    "linkedinUrl": "https://www.linkedin.com/in/ariannahuffington",
+    "instagramUrl": "https://www.instagram.com/ariannahuff",
+    "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ff302d83?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Arianna Huffington",
+        "headline": "Arianna | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "ariannahuffington",
+        "fullName": "Arianna Huffington",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 350689,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-03",
+    "profile": {
+      "summary": "Passionate Arianna who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.764Z"
+  },
+  {
+    "name": "Simon Sinek",
+    "linkedinUrl": "https://www.linkedin.com/in/simonsinek",
+    "instagramUrl": "https://www.instagram.com/simonsinek",
+    "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Simon Sinek",
+        "headline": "Simon | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "simonsinek",
+        "fullName": "Simon Sinek",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 286846,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-04",
+    "profile": {
+      "summary": "Passionate Simon who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.768Z"
+  },
+  {
+    "name": "Brene Brown",
+    "linkedinUrl": "https://www.linkedin.com/in/brenebrown",
+    "instagramUrl": "https://www.instagram.com/brenebrown",
+    "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Brene Brown",
+        "headline": "Brene | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "brenebrown",
+        "fullName": "Brene Brown",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 133463,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-05",
+    "profile": {
+      "summary": "Passionate Brene who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.774Z"
+  },
+  {
+    "name": "Tim Ferriss",
+    "linkedinUrl": "https://www.linkedin.com/in/timferriss",
+    "instagramUrl": "https://www.instagram.com/timferriss",
+    "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Tim Ferriss",
+        "headline": "Tim | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "timferriss",
+        "fullName": "Tim Ferriss",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 513787,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-06",
+    "profile": {
+      "summary": "Passionate Tim who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.778Z"
+  },
+  {
+    "name": "Marie Forleo",
+    "linkedinUrl": "https://www.linkedin.com/in/marieforleo",
+    "instagramUrl": "https://www.instagram.com/marieforleo",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Marie Forleo",
+        "headline": "Marie | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "marieforleo",
+        "fullName": "Marie Forleo",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 189740,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-07",
+    "profile": {
+      "summary": "Passionate Marie who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.783Z"
+  },
+  {
+    "name": "Tony Robbins",
+    "linkedinUrl": "https://www.linkedin.com/in/tonyrobbins",
+    "instagramUrl": "https://www.instagram.com/tonyrobbins",
+    "avatarUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Tony Robbins",
+        "headline": "Tony | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "tonyrobbins",
+        "fullName": "Tony Robbins",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 375271,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-08",
+    "profile": {
+      "summary": "Passionate Tony who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.789Z"
+  },
+  {
+    "name": "Sheryl Sandberg",
+    "linkedinUrl": "https://www.linkedin.com/in/sherylsandberg",
+    "instagramUrl": "https://www.instagram.com/sherylsandberg",
+    "avatarUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Sheryl Sandberg",
+        "headline": "Sheryl | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "sherylsandberg",
+        "fullName": "Sheryl Sandberg",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 188709,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-09",
+    "profile": {
+      "summary": "Passionate Sheryl who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.801Z"
+  },
+  {
+    "name": "Seth Godin",
+    "linkedinUrl": "https://www.linkedin.com/in/sethgodin",
+    "instagramUrl": "https://www.instagram.com/sethgodin",
+    "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Seth Godin",
+        "headline": "Seth | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "sethgodin",
+        "fullName": "Seth Godin",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 358498,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-10",
+    "profile": {
+      "summary": "Passionate Seth who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.805Z"
+  },
+  {
+    "name": "Amy Poehler",
+    "linkedinUrl": "https://www.linkedin.com/in/amypoehler",
+    "instagramUrl": "https://www.instagram.com/amypoehler",
+    "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Amy Poehler",
+        "headline": "Amy | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "amypoehler",
+        "fullName": "Amy Poehler",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 180838,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-11",
+    "profile": {
+      "summary": "Passionate Amy who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.809Z"
+  },
+  {
+    "name": "Chris Gayle",
+    "linkedinUrl": "https://www.linkedin.com/in/chrisgayle",
+    "instagramUrl": "https://www.instagram.com/chrisgayle",
+    "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Chris Gayle",
+        "headline": "Chris | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "chrisgayle",
+        "fullName": "Chris Gayle",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 401227,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-12",
+    "profile": {
+      "summary": "Passionate Chris who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.812Z"
+  },
+  {
+    "name": "Elon Musk",
+    "linkedinUrl": "https://www.linkedin.com/in/elonmusk",
+    "instagramUrl": "https://www.instagram.com/elonmusk",
+    "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Elon Musk",
+        "headline": "Elon | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "elonmusk",
+        "fullName": "Elon Musk",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 363537,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-13",
+    "profile": {
+      "summary": "Passionate Elon who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.815Z"
+  },
+  {
+    "name": "Oprah Winfrey",
+    "linkedinUrl": "https://www.linkedin.com/in/oprah",
+    "instagramUrl": "https://www.instagram.com/oprahwinfrey",
+    "avatarUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Oprah Winfrey",
+        "headline": "Oprah | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "oprahwinfrey",
+        "fullName": "Oprah Winfrey",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 372554,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-14",
+    "profile": {
+      "summary": "Passionate Oprah who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.820Z"
+  },
+  {
+    "name": "Richard Branson",
+    "linkedinUrl": "https://www.linkedin.com/in/richardbranson",
+    "instagramUrl": "https://www.instagram.com/richardbranson",
+    "avatarUrl": "https://images.unsplash.com/photo-1507591064344-4c690afa52b7?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Richard Branson",
+        "headline": "Richard | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "richardbranson",
+        "fullName": "Richard Branson",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 284829,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-15",
+    "profile": {
+      "summary": "Passionate Richard who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.823Z"
+  },
+  {
+    "name": "Mark Cuban",
+    "linkedinUrl": "https://www.linkedin.com/in/markcuban",
+    "instagramUrl": "https://www.instagram.com/markcuban",
+    "avatarUrl": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Mark Cuban",
+        "headline": "Mark | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "markcuban",
+        "fullName": "Mark Cuban",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 497348,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-16",
+    "profile": {
+      "summary": "Passionate Mark who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.827Z"
+  },
+  {
+    "name": "Taylor Swift",
+    "linkedinUrl": "https://www.linkedin.com/in/taylorswift",
+    "instagramUrl": "https://www.instagram.com/taylorswift",
+    "avatarUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Taylor Swift",
+        "headline": "Taylor | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "taylorswift",
+        "fullName": "Taylor Swift",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 508988,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-17",
+    "profile": {
+      "summary": "Passionate Taylor who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.830Z"
+  },
+  {
+    "name": "Dwayne Johnson",
+    "linkedinUrl": "https://www.linkedin.com/in/dwaynejohnson",
+    "instagramUrl": "https://www.instagram.com/thejuneybot",
+    "avatarUrl": "https://images.unsplash.com/photo-1548372290-8d01b6c8e78c?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Dwayne Johnson",
+        "headline": "Dwayne | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "dwaynejohnson",
+        "fullName": "Dwayne Johnson",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 334421,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-18",
+    "profile": {
+      "summary": "Passionate Dwayne who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.838Z"
+  },
+  {
+    "name": "Beyoncé",
+    "linkedinUrl": "https://www.linkedin.com/in/beyonce",
+    "instagramUrl": "https://www.instagram.com/beyonce",
+    "avatarUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Beyoncé",
+        "headline": "Beyoncé | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "beyoncé",
+        "fullName": "Beyoncé",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 117883,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-19",
+    "profile": {
+      "summary": "Passionate Beyoncé who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.841Z"
+  },
+  {
+    "name": "Jay-Z",
+    "linkedinUrl": "https://www.linkedin.com/in/jayz",
+    "instagramUrl": "https://www.instagram.com/40forever",
+    "avatarUrl": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Jay-Z",
+        "headline": "Jay-Z | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "jay-z",
+        "fullName": "Jay-Z",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 60799,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-20",
+    "profile": {
+      "summary": "Passionate Jay-Z who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.845Z"
+  },
+  {
+    "name": "Emma Watson",
+    "linkedinUrl": "https://www.linkedin.com/in/emmawatson",
+    "instagramUrl": "https://www.instagram.com/emmawatson",
+    "avatarUrl": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Emma Watson",
+        "headline": "Emma | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "emmawatson",
+        "fullName": "Emma Watson",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 372681,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-21",
+    "profile": {
+      "summary": "Passionate Emma who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.849Z"
+  },
+  {
+    "name": "Kevin Hart",
+    "linkedinUrl": "https://www.linkedin.com/in/kevinhart",
+    "instagramUrl": "https://www.instagram.com/kevinhart4real",
+    "avatarUrl": "https://images.unsplash.com/photo-1531891437562-4301cf35b7e4?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Kevin Hart",
+        "headline": "Kevin | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "kevinhart",
+        "fullName": "Kevin Hart",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 163732,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-22",
+    "profile": {
+      "summary": "Passionate Kevin who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.853Z"
+  },
+  {
+    "name": "Priyanka Chopra",
+    "linkedinUrl": "https://www.linkedin.com/in/priyankachopra",
+    "instagramUrl": "https://www.instagram.com/priyankachopra",
+    "avatarUrl": "https://images.unsplash.com/photo-1548142813-c348350df52b?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Priyanka Chopra",
+        "headline": "Priyanka | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "priyankachopra",
+        "fullName": "Priyanka Chopra",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 373136,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-23",
+    "profile": {
+      "summary": "Passionate Priyanka who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.856Z"
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "linkedinUrl": "https://www.linkedin.com/in/leonardodicaprio",
+    "instagramUrl": "https://www.instagram.com/leonardodicaprio",
+    "avatarUrl": "https://images.unsplash.com/photo-1506863530036-1efeddceb993?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Leonardo DiCaprio",
+        "headline": "Leonardo | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "leonardodicaprio",
+        "fullName": "Leonardo DiCaprio",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 74566,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-24",
+    "profile": {
+      "summary": "Passionate Leonardo who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.860Z"
+  },
+  {
+    "name": "Serena Williams",
+    "linkedinUrl": "https://www.linkedin.com/in/serenawilliams",
+    "instagramUrl": "https://www.instagram.com/serenawilliams",
+    "avatarUrl": "https://images.unsplash.com/photo-1538231535754-f3b87b5c9d8d?w=200",
+    "raw": {
+      "linkedin": {
+        "fullName": "Serena Williams",
+        "headline": "Serena | Entrepreneur, Speaker & Author",
+        "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+        "location": "United States",
+        "experience": [
+          {
+            "title": "CEO & Founder",
+            "company": "Self",
+            "duration": "2015-Present",
+            "description": "Building brands and empowering others."
+          },
+          {
+            "title": "Speaker",
+            "company": "Global",
+            "duration": "2010-Present",
+            "description": "Sharing stories that inspire action."
+          }
+        ],
+        "education": [
+          {
+            "school": "Columbia University",
+            "degree": "BA",
+            "field": "Business",
+            "years": "2008-2012"
+          }
+        ],
+        "skills": [
+          "Leadership",
+          "Communication",
+          "Marketing",
+          "Strategy",
+          "Public Speaking"
+        ],
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+      },
+      "instagram": {
+        "username": "serenawilliams",
+        "fullName": "Serena Williams",
+        "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+        "followersCount": 273435,
+        "followingCount": 800,
+        "postsCount": 1200,
+        "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+        "posts": [
+          {
+            "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+            "hashtags": [
+              "mondaymotivation",
+              "coffee",
+              "thoughts"
+            ],
+            "likesCount": 15000,
+            "commentsCount": 342,
+            "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+            "timestamp": "2024-10-28"
+          },
+          {
+            "caption": "Adventure awaits 🌄 #travel #explore",
+            "hashtags": [
+              "travel",
+              "explore",
+              "adventure"
+            ],
+            "likesCount": 22000,
+            "commentsCount": 567,
+            "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+            "timestamp": "2024-10-25"
+          },
+          {
+            "caption": "Grateful for this journey 🙏 #blessed #growth",
+            "hashtags": [
+              "blessed",
+              "growth",
+              "gratitude"
+            ],
+            "likesCount": 18000,
+            "commentsCount": 423,
+            "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+            "timestamp": "2024-10-22"
+          }
+        ]
+      }
+    },
+    "id": "person-25",
+    "profile": {
+      "summary": "Passionate Serena who values authenticity and meaningful connections. Known for being direct, ambitious, and warm.",
+      "needs": [
+        "genuine connection",
+        "intellectual stimulation",
+        "emotional availability",
+        "shared adventures"
+      ],
+      "hobbies": [
+        "travel",
+        "reading",
+        "cooking",
+        "fitness",
+        "photography",
+        "music"
+      ],
+      "interests": [
+        "entrepreneurship",
+        "personal development",
+        "creative expression",
+        "social impact"
+      ],
+      "values": [
+        "honesty",
+        "growth",
+        "kindness",
+        "ambition",
+        "creativity"
+      ],
+      "communicationStyle": "Direct and warm. Enjoys deep conversations over small talk. Not afraid to speak her truth.",
+      "lookingFor": "Someone genuine, ambitious, and emotionally intelligent. Values connection over perfection.",
+      "dealbreakers": [
+        "dishonesty",
+        "arrogance",
+        "lack of ambition",
+        "poor communication"
+      ],
+      "personalityTraits": [
+        "confident",
+        "ambitious",
+        "warm",
+        "authentic",
+        "resilient"
+      ],
+      "lifestyle": "Fast-paced but intentional. Enjoys structure but values spontaneity. Work-hard-play-hard balance.",
+      "evidence": [
+        {
+          "claim": "Values growth",
+          "source": "linkedin",
+          "quote": "\"Always learning, always growing.\""
+        },
+        {
+          "claim": "Creative spirit",
+          "source": "instagram",
+          "quote": "\"Creating is my therapy.\""
+        },
+        {
+          "claim": "Ambitious",
+          "source": "linkedin",
+          "quote": "\"Building something that matters.\""
+        },
+        {
+          "claim": "Warm and authentic",
+          "source": "instagram",
+          "quote": "\"Real over perfect, always.\""
+        }
+      ],
+      "confidence": "high",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400"
+      ]
+    },
+    "createdAt": "2026-10-29T12:19:47.863Z"
+  }
+]

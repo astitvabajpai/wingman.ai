@@ -1,0 +1,61 @@
+{
+  "id": "person-02__person-19",
+  "personAId": "person-02",
+  "personBId": "person-19",
+  "scenario": "a cozy coffee shop downtown",
+  "turns": [
+    {
+      "speaker": "Gary Vaynerchuk",
+      "speakerId": "person-02",
+      "text": "Hey! This place has such a nice vibe, don't you think?",
+      "timestamp": "2026-10-29T12:20:17.741Z"
+    },
+    {
+      "speaker": "Beyoncé",
+      "speakerId": "person-19",
+      "text": "Absolutely! I love how relaxed it feels here. So, what brings you out today?",
+      "timestamp": "2026-10-29T12:20:47.741Z"
+    },
+    {
+      "speaker": "Gary Vaynerchuk",
+      "speakerId": "person-02",
+      "text": "Just wanted to escape the usual routine and enjoy something different. How about you?",
+      "timestamp": "2026-10-29T12:21:17.741Z"
+    },
+    {
+      "speaker": "Beyoncé",
+      "speakerId": "person-19",
+      "text": "Same here! Sometimes you just need a change of scenery to remember what matters.",
+      "timestamp": "2026-10-29T12:21:47.741Z"
+    },
+    {
+      "speaker": "Gary Vaynerchuk",
+      "speakerId": "person-02",
+      "text": "I completely agree. Speaking of what matters, tell me — what's something you're really passionate about right now?",
+      "timestamp": "2026-10-29T12:22:17.741Z"
+    },
+    {
+      "speaker": "Beyoncé",
+      "speakerId": "person-19",
+      "text": "That's a great question. I've been really into entrepreneurship lately. It keeps me grounded.",
+      "timestamp": "2026-10-29T12:22:47.741Z"
+    }
+  ],
+  "score": 62,
+  "chemistry": "Good rapport with some tension",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 77,
+    "communicationFit": 74,
+    "interestOverlap": 72,
+    "goalsAlignment": 51
+  },
+  "completedAt": "2026-10-29T12:20:17.741Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "person-17__person-05",
+  "personAId": "person-17",
+  "personBId": "person-05",
+  "scenario": "a weekend hike at sunset",
+  "turns": [
+    {
+      "speaker": "Taylor Swift",
+      "speakerId": "person-17",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.911Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "First time! But it looks amazing. I'm Taylor Swift, by the way.",
+      "timestamp": "2026-10-29T12:20:47.911Z"
+    },
+    {
+      "speaker": "Taylor Swift",
+      "speakerId": "person-17",
+      "text": "Nice to meet you, Taylor Swift! I'm Brene Brown. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.911Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.911Z"
+    },
+    {
+      "speaker": "Taylor Swift",
+      "speakerId": "person-17",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.911Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.911Z"
+    }
+  ],
+  "score": 60,
+  "chemistry": "Good rapport with some tension",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 58,
+    "communicationFit": 68,
+    "interestOverlap": 78,
+    "goalsAlignment": 60
+  },
+  "completedAt": "2026-10-29T12:20:17.911Z"
+}

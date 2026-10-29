@@ -1,0 +1,61 @@
+{
+  "id": "person-15__person-16",
+  "personAId": "person-15",
+  "personBId": "person-16",
+  "scenario": "a farmer's market on Sunday morning",
+  "turns": [
+    {
+      "speaker": "Richard Branson",
+      "speakerId": "person-15",
+      "text": "Hey! This place has such a nice vibe, don't you think?",
+      "timestamp": "2026-10-29T12:20:17.890Z"
+    },
+    {
+      "speaker": "Mark Cuban",
+      "speakerId": "person-16",
+      "text": "Absolutely! I love how relaxed it feels here. So, what brings you out today?",
+      "timestamp": "2026-10-29T12:20:47.890Z"
+    },
+    {
+      "speaker": "Richard Branson",
+      "speakerId": "person-15",
+      "text": "Just wanted to escape the usual routine and enjoy something different. How about you?",
+      "timestamp": "2026-10-29T12:21:17.890Z"
+    },
+    {
+      "speaker": "Mark Cuban",
+      "speakerId": "person-16",
+      "text": "Same here! Sometimes you just need a change of scenery to remember what matters.",
+      "timestamp": "2026-10-29T12:21:47.890Z"
+    },
+    {
+      "speaker": "Richard Branson",
+      "speakerId": "person-15",
+      "text": "I completely agree. Speaking of what matters, tell me — what's something you're really passionate about right now?",
+      "timestamp": "2026-10-29T12:22:17.890Z"
+    },
+    {
+      "speaker": "Mark Cuban",
+      "speakerId": "person-16",
+      "text": "That's a great question. I've been really into entrepreneurship lately. It keeps me grounded.",
+      "timestamp": "2026-10-29T12:22:47.890Z"
+    }
+  ],
+  "score": 64,
+  "chemistry": "Good rapport with some tension",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 68,
+    "communicationFit": 60,
+    "interestOverlap": 62,
+    "goalsAlignment": 60
+  },
+  "completedAt": "2026-10-29T12:20:17.890Z"
+}

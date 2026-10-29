@@ -1,0 +1,61 @@
+{
+  "id": "person-06__person-23",
+  "personAId": "person-06",
+  "personBId": "person-23",
+  "scenario": "a weekend hike at sunset",
+  "turns": [
+    {
+      "speaker": "Tim Ferriss",
+      "speakerId": "person-06",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.810Z"
+    },
+    {
+      "speaker": "Priyanka Chopra",
+      "speakerId": "person-23",
+      "text": "First time! But it looks amazing. I'm Tim Ferriss, by the way.",
+      "timestamp": "2026-10-29T12:20:47.810Z"
+    },
+    {
+      "speaker": "Tim Ferriss",
+      "speakerId": "person-06",
+      "text": "Nice to meet you, Tim Ferriss! I'm Priyanka Chopra. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.810Z"
+    },
+    {
+      "speaker": "Priyanka Chopra",
+      "speakerId": "person-23",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.810Z"
+    },
+    {
+      "speaker": "Tim Ferriss",
+      "speakerId": "person-06",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.810Z"
+    },
+    {
+      "speaker": "Priyanka Chopra",
+      "speakerId": "person-23",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.810Z"
+    }
+  ],
+  "score": 55,
+  "chemistry": "Mild connection, needs more time",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Interesting dynamic, but could be challenging",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 75,
+    "communicationFit": 63,
+    "interestOverlap": 60,
+    "goalsAlignment": 71
+  },
+  "completedAt": "2026-10-29T12:20:17.810Z"
+}

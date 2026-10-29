@@ -1,0 +1,58 @@
+{
+  "id": "person-03__person-15",
+  "personAId": "person-03",
+  "personBId": "person-15",
+  "scenario": "a rooftop bar with city views",
+  "turns": [
+    {
+      "speaker": "Arianna Huffington",
+      "speakerId": "person-03",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.752Z"
+    },
+    {
+      "speaker": "Richard Branson",
+      "speakerId": "person-15",
+      "text": "First time! But it looks amazing. I'm Arianna Huffington, by the way.",
+      "timestamp": "2026-10-29T12:20:47.752Z"
+    },
+    {
+      "speaker": "Arianna Huffington",
+      "speakerId": "person-03",
+      "text": "Nice to meet you, Arianna Huffington! I'm Richard Branson. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.752Z"
+    },
+    {
+      "speaker": "Richard Branson",
+      "speakerId": "person-15",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.752Z"
+    },
+    {
+      "speaker": "Arianna Huffington",
+      "speakerId": "person-03",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.752Z"
+    },
+    {
+      "speaker": "Richard Branson",
+      "speakerId": "person-15",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.752Z"
+    }
+  ],
+  "score": 76,
+  "chemistry": "Strong natural chemistry",
+  "friction": [],
+  "verdict": "Great potential — both engaged and authentic",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 72,
+    "communicationFit": 65,
+    "interestOverlap": 62,
+    "goalsAlignment": 65
+  },
+  "completedAt": "2026-10-29T12:20:17.752Z"
+}

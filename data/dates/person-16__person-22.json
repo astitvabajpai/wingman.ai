@@ -1,0 +1,61 @@
+{
+  "id": "person-16__person-22",
+  "personAId": "person-16",
+  "personBId": "person-22",
+  "scenario": "a farmer's market on Sunday morning",
+  "turns": [
+    {
+      "speaker": "Mark Cuban",
+      "speakerId": "person-16",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.904Z"
+    },
+    {
+      "speaker": "Kevin Hart",
+      "speakerId": "person-22",
+      "text": "First time! But it looks amazing. I'm Mark Cuban, by the way.",
+      "timestamp": "2026-10-29T12:20:47.905Z"
+    },
+    {
+      "speaker": "Mark Cuban",
+      "speakerId": "person-16",
+      "text": "Nice to meet you, Mark Cuban! I'm Kevin Hart. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.905Z"
+    },
+    {
+      "speaker": "Kevin Hart",
+      "speakerId": "person-22",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.905Z"
+    },
+    {
+      "speaker": "Mark Cuban",
+      "speakerId": "person-16",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.905Z"
+    },
+    {
+      "speaker": "Kevin Hart",
+      "speakerId": "person-22",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.905Z"
+    }
+  ],
+  "score": 64,
+  "chemistry": "Good rapport with some tension",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 68,
+    "communicationFit": 65,
+    "interestOverlap": 68,
+    "goalsAlignment": 71
+  },
+  "completedAt": "2026-10-29T12:20:17.905Z"
+}

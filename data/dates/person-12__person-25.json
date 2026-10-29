@@ -1,0 +1,61 @@
+{
+  "id": "person-12__person-25",
+  "personAId": "person-12",
+  "personBId": "person-25",
+  "scenario": "a cozy coffee shop downtown",
+  "turns": [
+    {
+      "speaker": "Chris Gayle",
+      "speakerId": "person-12",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.862Z"
+    },
+    {
+      "speaker": "Serena Williams",
+      "speakerId": "person-25",
+      "text": "First time! But it looks amazing. I'm Chris Gayle, by the way.",
+      "timestamp": "2026-10-29T12:20:47.862Z"
+    },
+    {
+      "speaker": "Chris Gayle",
+      "speakerId": "person-12",
+      "text": "Nice to meet you, Chris Gayle! I'm Serena Williams. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.862Z"
+    },
+    {
+      "speaker": "Serena Williams",
+      "speakerId": "person-25",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.862Z"
+    },
+    {
+      "speaker": "Chris Gayle",
+      "speakerId": "person-12",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.862Z"
+    },
+    {
+      "speaker": "Serena Williams",
+      "speakerId": "person-25",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.862Z"
+    }
+  ],
+  "score": 59,
+  "chemistry": "Good rapport with some tension",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 61,
+    "communicationFit": 62,
+    "interestOverlap": 63,
+    "goalsAlignment": 56
+  },
+  "completedAt": "2026-10-29T12:20:17.862Z"
+}

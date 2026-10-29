@@ -1,0 +1,61 @@
+{
+  "id": "person-18__person-21",
+  "personAId": "person-18",
+  "personBId": "person-21",
+  "scenario": "a weekend hike at sunset",
+  "turns": [
+    {
+      "speaker": "Dwayne Johnson",
+      "speakerId": "person-18",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.930Z"
+    },
+    {
+      "speaker": "Emma Watson",
+      "speakerId": "person-21",
+      "text": "First time! But it looks amazing. I'm Dwayne Johnson, by the way.",
+      "timestamp": "2026-10-29T12:20:47.930Z"
+    },
+    {
+      "speaker": "Dwayne Johnson",
+      "speakerId": "person-18",
+      "text": "Nice to meet you, Dwayne Johnson! I'm Emma Watson. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.930Z"
+    },
+    {
+      "speaker": "Emma Watson",
+      "speakerId": "person-21",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.930Z"
+    },
+    {
+      "speaker": "Dwayne Johnson",
+      "speakerId": "person-18",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.930Z"
+    },
+    {
+      "speaker": "Emma Watson",
+      "speakerId": "person-21",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.930Z"
+    }
+  ],
+  "score": 65,
+  "chemistry": "Good rapport with some tension",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 74,
+    "communicationFit": 74,
+    "interestOverlap": 70,
+    "goalsAlignment": 61
+  },
+  "completedAt": "2026-10-29T12:20:17.930Z"
+}

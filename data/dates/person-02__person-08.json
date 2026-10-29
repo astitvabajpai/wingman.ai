@@ -1,0 +1,58 @@
+{
+  "id": "person-02__person-08",
+  "personAId": "person-02",
+  "personBId": "person-08",
+  "scenario": "a bookshop on a rainy afternoon",
+  "turns": [
+    {
+      "speaker": "Gary Vaynerchuk",
+      "speakerId": "person-02",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.745Z"
+    },
+    {
+      "speaker": "Tony Robbins",
+      "speakerId": "person-08",
+      "text": "First time! But it looks amazing. I'm Gary Vaynerchuk, by the way.",
+      "timestamp": "2026-10-29T12:20:47.745Z"
+    },
+    {
+      "speaker": "Gary Vaynerchuk",
+      "speakerId": "person-02",
+      "text": "Nice to meet you, Gary Vaynerchuk! I'm Tony Robbins. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.745Z"
+    },
+    {
+      "speaker": "Tony Robbins",
+      "speakerId": "person-08",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.745Z"
+    },
+    {
+      "speaker": "Gary Vaynerchuk",
+      "speakerId": "person-02",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.745Z"
+    },
+    {
+      "speaker": "Tony Robbins",
+      "speakerId": "person-08",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.745Z"
+    }
+  ],
+  "score": 73,
+  "chemistry": "Strong natural chemistry",
+  "friction": [],
+  "verdict": "Great potential — both engaged and authentic",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 59,
+    "communicationFit": 77,
+    "interestOverlap": 68,
+    "goalsAlignment": 72
+  },
+  "completedAt": "2026-10-29T12:20:17.745Z"
+}

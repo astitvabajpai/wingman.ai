@@ -1,0 +1,58 @@
+{
+  "id": "person-11__person-13",
+  "personAId": "person-11",
+  "personBId": "person-13",
+  "scenario": "a rooftop bar with city views",
+  "turns": [
+    {
+      "speaker": "Amy Poehler",
+      "speakerId": "person-11",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.853Z"
+    },
+    {
+      "speaker": "Elon Musk",
+      "speakerId": "person-13",
+      "text": "First time! But it looks amazing. I'm Amy Poehler, by the way.",
+      "timestamp": "2026-10-29T12:20:47.853Z"
+    },
+    {
+      "speaker": "Amy Poehler",
+      "speakerId": "person-11",
+      "text": "Nice to meet you, Amy Poehler! I'm Elon Musk. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.853Z"
+    },
+    {
+      "speaker": "Elon Musk",
+      "speakerId": "person-13",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.853Z"
+    },
+    {
+      "speaker": "Amy Poehler",
+      "speakerId": "person-11",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.853Z"
+    },
+    {
+      "speaker": "Elon Musk",
+      "speakerId": "person-13",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.853Z"
+    }
+  ],
+  "score": 82,
+  "chemistry": "Strong natural chemistry",
+  "friction": [],
+  "verdict": "Great potential — both engaged and authentic",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 76,
+    "communicationFit": 57,
+    "interestOverlap": 65,
+    "goalsAlignment": 62
+  },
+  "completedAt": "2026-10-29T12:20:17.853Z"
+}

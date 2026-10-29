@@ -1,0 +1,58 @@
+{
+  "id": "person-21__person-10",
+  "personAId": "person-21",
+  "personBId": "person-10",
+  "scenario": "a rooftop bar with city views",
+  "turns": [
+    {
+      "speaker": "Emma Watson",
+      "speakerId": "person-21",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.960Z"
+    },
+    {
+      "speaker": "Seth Godin",
+      "speakerId": "person-10",
+      "text": "First time! But it looks amazing. I'm Emma Watson, by the way.",
+      "timestamp": "2026-10-29T12:20:47.960Z"
+    },
+    {
+      "speaker": "Emma Watson",
+      "speakerId": "person-21",
+      "text": "Nice to meet you, Emma Watson! I'm Seth Godin. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.960Z"
+    },
+    {
+      "speaker": "Seth Godin",
+      "speakerId": "person-10",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.960Z"
+    },
+    {
+      "speaker": "Emma Watson",
+      "speakerId": "person-21",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.960Z"
+    },
+    {
+      "speaker": "Seth Godin",
+      "speakerId": "person-10",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.960Z"
+    }
+  ],
+  "score": 80,
+  "chemistry": "Strong natural chemistry",
+  "friction": [],
+  "verdict": "Great potential — both engaged and authentic",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 50,
+    "communicationFit": 60,
+    "interestOverlap": 73,
+    "goalsAlignment": 73
+  },
+  "completedAt": "2026-10-29T12:20:17.960Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "person-09__person-05",
+  "personAId": "person-09",
+  "personBId": "person-05",
+  "scenario": "a weekend hike at sunset",
+  "turns": [
+    {
+      "speaker": "Sheryl Sandberg",
+      "speakerId": "person-09",
+      "text": "Hey! This place has such a nice vibe, don't you think?",
+      "timestamp": "2026-10-29T12:20:17.838Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Absolutely! I love how relaxed it feels here. So, what brings you out today?",
+      "timestamp": "2026-10-29T12:20:47.838Z"
+    },
+    {
+      "speaker": "Sheryl Sandberg",
+      "speakerId": "person-09",
+      "text": "Just wanted to escape the usual routine and enjoy something different. How about you?",
+      "timestamp": "2026-10-29T12:21:17.838Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Same here! Sometimes you just need a change of scenery to remember what matters.",
+      "timestamp": "2026-10-29T12:21:47.838Z"
+    },
+    {
+      "speaker": "Sheryl Sandberg",
+      "speakerId": "person-09",
+      "text": "I completely agree. Speaking of what matters, tell me — what's something you're really passionate about right now?",
+      "timestamp": "2026-10-29T12:22:17.838Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "That's a great question. I've been really into entrepreneurship lately. It keeps me grounded.",
+      "timestamp": "2026-10-29T12:22:47.838Z"
+    }
+  ],
+  "score": 74,
+  "chemistry": "Strong natural chemistry",
+  "friction": [],
+  "verdict": "Great potential — both engaged and authentic",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 54,
+    "communicationFit": 58,
+    "interestOverlap": 70,
+    "goalsAlignment": 72
+  },
+  "completedAt": "2026-10-29T12:20:17.838Z"
+}

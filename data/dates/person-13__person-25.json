@@ -1,0 +1,61 @@
+{
+  "id": "person-13__person-25",
+  "personAId": "person-13",
+  "personBId": "person-25",
+  "scenario": "a farmer's market on Sunday morning",
+  "turns": [
+    {
+      "speaker": "Elon Musk",
+      "speakerId": "person-13",
+      "text": "Hey! This place has such a nice vibe, don't you think?",
+      "timestamp": "2026-10-29T12:20:17.869Z"
+    },
+    {
+      "speaker": "Serena Williams",
+      "speakerId": "person-25",
+      "text": "Absolutely! I love how relaxed it feels here. So, what brings you out today?",
+      "timestamp": "2026-10-29T12:20:47.869Z"
+    },
+    {
+      "speaker": "Elon Musk",
+      "speakerId": "person-13",
+      "text": "Just wanted to escape the usual routine and enjoy something different. How about you?",
+      "timestamp": "2026-10-29T12:21:17.869Z"
+    },
+    {
+      "speaker": "Serena Williams",
+      "speakerId": "person-25",
+      "text": "Same here! Sometimes you just need a change of scenery to remember what matters.",
+      "timestamp": "2026-10-29T12:21:47.869Z"
+    },
+    {
+      "speaker": "Elon Musk",
+      "speakerId": "person-13",
+      "text": "I completely agree. Speaking of what matters, tell me — what's something you're really passionate about right now?",
+      "timestamp": "2026-10-29T12:22:17.869Z"
+    },
+    {
+      "speaker": "Serena Williams",
+      "speakerId": "person-25",
+      "text": "That's a great question. I've been really into entrepreneurship lately. It keeps me grounded.",
+      "timestamp": "2026-10-29T12:22:47.869Z"
+    }
+  ],
+  "score": 60,
+  "chemistry": "Good rapport with some tension",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 69,
+    "communicationFit": 57,
+    "interestOverlap": 77,
+    "goalsAlignment": 70
+  },
+  "completedAt": "2026-10-29T12:20:17.869Z"
+}

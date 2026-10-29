@@ -1,0 +1,180 @@
+{
+  "personId": "person-22",
+  "ordered": [
+    {
+      "otherId": "person-06",
+      "otherName": "Tim Ferriss",
+      "score": 82,
+      "reason": "Great potential — both engaged and authentic",
+      "dateId": "person-22__person-06",
+      "isDateRun": true
+    },
+    {
+      "otherId": "person-08",
+      "otherName": "Tony Robbins",
+      "score": 78,
+      "reason": "Great potential — both engaged and authentic",
+      "dateId": "person-22__person-08",
+      "isDateRun": true
+    },
+    {
+      "otherId": "person-04",
+      "otherName": "Simon Sinek",
+      "score": 70,
+      "reason": "Promising but needs deeper conversation",
+      "dateId": "person-04__person-22",
+      "isDateRun": true
+    },
+    {
+      "otherId": "person-13",
+      "otherName": "Elon Musk",
+      "score": 64,
+      "reason": "Prefilter compatibility: 64/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-16",
+      "otherName": "Mark Cuban",
+      "score": 64,
+      "reason": "Promising but needs deeper conversation",
+      "dateId": "person-16__person-22",
+      "isDateRun": true
+    },
+    {
+      "otherId": "person-15",
+      "otherName": "Richard Branson",
+      "score": 62,
+      "reason": "Prefilter compatibility: 62/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-12",
+      "otherName": "Chris Gayle",
+      "score": 58,
+      "reason": "Prefilter compatibility: 58/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-09",
+      "otherName": "Sheryl Sandberg",
+      "score": 57,
+      "reason": "Prefilter compatibility: 57/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-25",
+      "otherName": "Serena Williams",
+      "score": 57,
+      "reason": "Prefilter compatibility: 57/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-01",
+      "otherName": "Mel Robbins",
+      "score": 52,
+      "reason": "Interesting dynamic, but could be challenging",
+      "dateId": "person-22__person-01",
+      "isDateRun": true
+    },
+    {
+      "otherId": "person-02",
+      "otherName": "Gary Vaynerchuk",
+      "score": 52,
+      "reason": "Prefilter compatibility: 52/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-07",
+      "otherName": "Marie Forleo",
+      "score": 48,
+      "reason": "Prefilter compatibility: 48/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-11",
+      "otherName": "Amy Poehler",
+      "score": 48,
+      "reason": "Prefilter compatibility: 48/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-03",
+      "otherName": "Arianna Huffington",
+      "score": 46,
+      "reason": "Prefilter compatibility: 46/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-19",
+      "otherName": "Beyoncé",
+      "score": 46,
+      "reason": "Prefilter compatibility: 46/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-23",
+      "otherName": "Priyanka Chopra",
+      "score": 46,
+      "reason": "Interesting dynamic, but could be challenging",
+      "dateId": "person-23__person-22",
+      "isDateRun": true
+    },
+    {
+      "otherId": "person-10",
+      "otherName": "Seth Godin",
+      "score": 44,
+      "reason": "Prefilter compatibility: 44/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-21",
+      "otherName": "Emma Watson",
+      "score": 44,
+      "reason": "Prefilter compatibility: 44/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-20",
+      "otherName": "Jay-Z",
+      "score": 42,
+      "reason": "Prefilter compatibility: 42/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-24",
+      "otherName": "Leonardo DiCaprio",
+      "score": 37,
+      "reason": "Prefilter compatibility: 37/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-05",
+      "otherName": "Brene Brown",
+      "score": 31,
+      "reason": "Prefilter compatibility: 31/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-17",
+      "otherName": "Taylor Swift",
+      "score": 31,
+      "reason": "Prefilter compatibility: 31/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-14",
+      "otherName": "Oprah Winfrey",
+      "score": 30,
+      "reason": "Prefilter compatibility: 30/100",
+      "isDateRun": false
+    },
+    {
+      "otherId": "person-18",
+      "otherName": "Dwayne Johnson",
+      "score": 30,
+      "reason": "Prefilter compatibility: 30/100",
+      "isDateRun": false
+    }
+  ],
+  "computedAt": "2026-10-29T12:20:18.051Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "person-06__person-05",
+  "personAId": "person-06",
+  "personBId": "person-05",
+  "scenario": "a rooftop bar with city views",
+  "turns": [
+    {
+      "speaker": "Tim Ferriss",
+      "speakerId": "person-06",
+      "text": "Hey! This place has such a nice vibe, don't you think?",
+      "timestamp": "2026-10-29T12:20:17.806Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Absolutely! I love how relaxed it feels here. So, what brings you out today?",
+      "timestamp": "2026-10-29T12:20:47.806Z"
+    },
+    {
+      "speaker": "Tim Ferriss",
+      "speakerId": "person-06",
+      "text": "Just wanted to escape the usual routine and enjoy something different. How about you?",
+      "timestamp": "2026-10-29T12:21:17.806Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Same here! Sometimes you just need a change of scenery to remember what matters.",
+      "timestamp": "2026-10-29T12:21:47.806Z"
+    },
+    {
+      "speaker": "Tim Ferriss",
+      "speakerId": "person-06",
+      "text": "I completely agree. Speaking of what matters, tell me — what's something you're really passionate about right now?",
+      "timestamp": "2026-10-29T12:22:17.806Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "That's a great question. I've been really into entrepreneurship lately. It keeps me grounded.",
+      "timestamp": "2026-10-29T12:22:47.806Z"
+    }
+  ],
+  "score": 69,
+  "chemistry": "Good rapport with some tension",
+  "friction": [],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 56,
+    "communicationFit": 64,
+    "interestOverlap": 72,
+    "goalsAlignment": 71
+  },
+  "completedAt": "2026-10-29T12:20:17.806Z"
+}

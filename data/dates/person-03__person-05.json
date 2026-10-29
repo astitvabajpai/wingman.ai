@@ -1,0 +1,58 @@
+{
+  "id": "person-05__person-03",
+  "personAId": "person-05",
+  "personBId": "person-03",
+  "scenario": "a rooftop bar with city views",
+  "turns": [
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Hey! This place has such a nice vibe, don't you think?",
+      "timestamp": "2026-10-29T12:20:17.804Z"
+    },
+    {
+      "speaker": "Arianna Huffington",
+      "speakerId": "person-03",
+      "text": "Absolutely! I love how relaxed it feels here. So, what brings you out today?",
+      "timestamp": "2026-10-29T12:20:47.804Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Just wanted to escape the usual routine and enjoy something different. How about you?",
+      "timestamp": "2026-10-29T12:21:17.804Z"
+    },
+    {
+      "speaker": "Arianna Huffington",
+      "speakerId": "person-03",
+      "text": "Same here! Sometimes you just need a change of scenery to remember what matters.",
+      "timestamp": "2026-10-29T12:21:47.804Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "I completely agree. Speaking of what matters, tell me — what's something you're really passionate about right now?",
+      "timestamp": "2026-10-29T12:22:17.804Z"
+    },
+    {
+      "speaker": "Arianna Huffington",
+      "speakerId": "person-03",
+      "text": "That's a great question. I've been really into entrepreneurship lately. It keeps me grounded.",
+      "timestamp": "2026-10-29T12:22:47.804Z"
+    }
+  ],
+  "score": 76,
+  "chemistry": "Strong natural chemistry",
+  "friction": [],
+  "verdict": "Great potential — both engaged and authentic",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 72,
+    "communicationFit": 75,
+    "interestOverlap": 75,
+    "goalsAlignment": 65
+  },
+  "completedAt": "2026-10-29T12:20:17.804Z"
+}

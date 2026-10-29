@@ -1,0 +1,58 @@
+{
+  "id": "person-14__person-03",
+  "personAId": "person-14",
+  "personBId": "person-03",
+  "scenario": "a bookshop on a rainy afternoon",
+  "turns": [
+    {
+      "speaker": "Oprah Winfrey",
+      "speakerId": "person-14",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.882Z"
+    },
+    {
+      "speaker": "Arianna Huffington",
+      "speakerId": "person-03",
+      "text": "First time! But it looks amazing. I'm Oprah Winfrey, by the way.",
+      "timestamp": "2026-10-29T12:20:47.882Z"
+    },
+    {
+      "speaker": "Oprah Winfrey",
+      "speakerId": "person-14",
+      "text": "Nice to meet you, Oprah Winfrey! I'm Arianna Huffington. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.882Z"
+    },
+    {
+      "speaker": "Arianna Huffington",
+      "speakerId": "person-03",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.882Z"
+    },
+    {
+      "speaker": "Oprah Winfrey",
+      "speakerId": "person-14",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.882Z"
+    },
+    {
+      "speaker": "Arianna Huffington",
+      "speakerId": "person-03",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.882Z"
+    }
+  ],
+  "score": 79,
+  "chemistry": "Strong natural chemistry",
+  "friction": [],
+  "verdict": "Great potential — both engaged and authentic",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 61,
+    "communicationFit": 56,
+    "interestOverlap": 70,
+    "goalsAlignment": 54
+  },
+  "completedAt": "2026-10-29T12:20:17.882Z"
+}

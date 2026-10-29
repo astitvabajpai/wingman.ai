@@ -1,0 +1,58 @@
+{
+  "id": "person-24__person-01",
+  "personAId": "person-24",
+  "personBId": "person-01",
+  "scenario": "a weekend hike at sunset",
+  "turns": [
+    {
+      "speaker": "Leonardo DiCaprio",
+      "speakerId": "person-24",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.979Z"
+    },
+    {
+      "speaker": "Mel Robbins",
+      "speakerId": "person-01",
+      "text": "First time! But it looks amazing. I'm Leonardo DiCaprio, by the way.",
+      "timestamp": "2026-10-29T12:20:47.979Z"
+    },
+    {
+      "speaker": "Leonardo DiCaprio",
+      "speakerId": "person-24",
+      "text": "Nice to meet you, Leonardo DiCaprio! I'm Mel Robbins. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.979Z"
+    },
+    {
+      "speaker": "Mel Robbins",
+      "speakerId": "person-01",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.979Z"
+    },
+    {
+      "speaker": "Leonardo DiCaprio",
+      "speakerId": "person-24",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.979Z"
+    },
+    {
+      "speaker": "Mel Robbins",
+      "speakerId": "person-01",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.979Z"
+    }
+  ],
+  "score": 84,
+  "chemistry": "Strong natural chemistry",
+  "friction": [],
+  "verdict": "Great potential — both engaged and authentic",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 53,
+    "communicationFit": 63,
+    "interestOverlap": 69,
+    "goalsAlignment": 50
+  },
+  "completedAt": "2026-10-29T12:20:17.979Z"
+}

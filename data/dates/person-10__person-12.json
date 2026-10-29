@@ -1,0 +1,58 @@
+{
+  "id": "person-10__person-12",
+  "personAId": "person-10",
+  "personBId": "person-12",
+  "scenario": "a bookshop on a rainy afternoon",
+  "turns": [
+    {
+      "speaker": "Seth Godin",
+      "speakerId": "person-10",
+      "text": "Hey! This place has such a nice vibe, don't you think?",
+      "timestamp": "2026-10-29T12:20:17.850Z"
+    },
+    {
+      "speaker": "Chris Gayle",
+      "speakerId": "person-12",
+      "text": "Absolutely! I love how relaxed it feels here. So, what brings you out today?",
+      "timestamp": "2026-10-29T12:20:47.850Z"
+    },
+    {
+      "speaker": "Seth Godin",
+      "speakerId": "person-10",
+      "text": "Just wanted to escape the usual routine and enjoy something different. How about you?",
+      "timestamp": "2026-10-29T12:21:17.850Z"
+    },
+    {
+      "speaker": "Chris Gayle",
+      "speakerId": "person-12",
+      "text": "Same here! Sometimes you just need a change of scenery to remember what matters.",
+      "timestamp": "2026-10-29T12:21:47.850Z"
+    },
+    {
+      "speaker": "Seth Godin",
+      "speakerId": "person-10",
+      "text": "I completely agree. Speaking of what matters, tell me — what's something you're really passionate about right now?",
+      "timestamp": "2026-10-29T12:22:17.850Z"
+    },
+    {
+      "speaker": "Chris Gayle",
+      "speakerId": "person-12",
+      "text": "That's a great question. I've been really into entrepreneurship lately. It keeps me grounded.",
+      "timestamp": "2026-10-29T12:22:47.850Z"
+    }
+  ],
+  "score": 69,
+  "chemistry": "Good rapport with some tension",
+  "friction": [],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 76,
+    "communicationFit": 74,
+    "interestOverlap": 71,
+    "goalsAlignment": 69
+  },
+  "completedAt": "2026-10-29T12:20:17.850Z"
+}

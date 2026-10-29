@@ -1,0 +1,61 @@
+{
+  "id": "person-20__person-25",
+  "personAId": "person-20",
+  "personBId": "person-25",
+  "scenario": "a rooftop bar with city views",
+  "turns": [
+    {
+      "speaker": "Jay-Z",
+      "speakerId": "person-20",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.950Z"
+    },
+    {
+      "speaker": "Serena Williams",
+      "speakerId": "person-25",
+      "text": "First time! But it looks amazing. I'm Jay-Z, by the way.",
+      "timestamp": "2026-10-29T12:20:47.950Z"
+    },
+    {
+      "speaker": "Jay-Z",
+      "speakerId": "person-20",
+      "text": "Nice to meet you, Jay-Z! I'm Serena Williams. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.950Z"
+    },
+    {
+      "speaker": "Serena Williams",
+      "speakerId": "person-25",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.950Z"
+    },
+    {
+      "speaker": "Jay-Z",
+      "speakerId": "person-20",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.950Z"
+    },
+    {
+      "speaker": "Serena Williams",
+      "speakerId": "person-25",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.950Z"
+    }
+  ],
+  "score": 64,
+  "chemistry": "Good rapport with some tension",
+  "friction": [
+    "Different communication styles",
+    "One seems more reserved"
+  ],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 74,
+    "communicationFit": 61,
+    "interestOverlap": 73,
+    "goalsAlignment": 57
+  },
+  "completedAt": "2026-10-29T12:20:17.950Z"
+}

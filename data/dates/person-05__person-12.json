@@ -1,0 +1,58 @@
+{
+  "id": "person-05__person-12",
+  "personAId": "person-05",
+  "personBId": "person-12",
+  "scenario": "a weekend hike at sunset",
+  "turns": [
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.776Z"
+    },
+    {
+      "speaker": "Chris Gayle",
+      "speakerId": "person-12",
+      "text": "First time! But it looks amazing. I'm Brene Brown, by the way.",
+      "timestamp": "2026-10-29T12:20:47.776Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Nice to meet you, Brene Brown! I'm Chris Gayle. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.776Z"
+    },
+    {
+      "speaker": "Chris Gayle",
+      "speakerId": "person-12",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.776Z"
+    },
+    {
+      "speaker": "Brene Brown",
+      "speakerId": "person-05",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.776Z"
+    },
+    {
+      "speaker": "Chris Gayle",
+      "speakerId": "person-12",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.776Z"
+    }
+  ],
+  "score": 74,
+  "chemistry": "Strong natural chemistry",
+  "friction": [],
+  "verdict": "Great potential — both engaged and authentic",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 73,
+    "communicationFit": 64,
+    "interestOverlap": 75,
+    "goalsAlignment": 69
+  },
+  "completedAt": "2026-10-29T12:20:17.776Z"
+}

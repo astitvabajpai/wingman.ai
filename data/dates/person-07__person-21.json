@@ -1,0 +1,58 @@
+{
+  "id": "person-07__person-21",
+  "personAId": "person-07",
+  "personBId": "person-21",
+  "scenario": "a rooftop bar with city views",
+  "turns": [
+    {
+      "speaker": "Marie Forleo",
+      "speakerId": "person-07",
+      "text": "Wow, this view is incredible! Have you been here before?",
+      "timestamp": "2026-10-29T12:20:17.821Z"
+    },
+    {
+      "speaker": "Emma Watson",
+      "speakerId": "person-21",
+      "text": "First time! But it looks amazing. I'm Marie Forleo, by the way.",
+      "timestamp": "2026-10-29T12:20:47.821Z"
+    },
+    {
+      "speaker": "Marie Forleo",
+      "speakerId": "person-07",
+      "text": "Nice to meet you, Marie Forleo! I'm Emma Watson. I come here sometimes when I need inspiration.",
+      "timestamp": "2026-10-29T12:21:17.821Z"
+    },
+    {
+      "speaker": "Emma Watson",
+      "speakerId": "person-21",
+      "text": "Inspiration for what?",
+      "timestamp": "2026-10-29T12:21:47.821Z"
+    },
+    {
+      "speaker": "Marie Forleo",
+      "speakerId": "person-07",
+      "text": "Usually work-related stuff, but honestly, I think we all need moments like this to reconnect with ourselves.",
+      "timestamp": "2026-10-29T12:22:17.821Z"
+    },
+    {
+      "speaker": "Emma Watson",
+      "speakerId": "person-21",
+      "text": "I couldn't agree more. It's rare to find that balance these days.",
+      "timestamp": "2026-10-29T12:22:47.821Z"
+    }
+  ],
+  "score": 67,
+  "chemistry": "Good rapport with some tension",
+  "friction": [],
+  "verdict": "Promising but needs deeper conversation",
+  "sharedInterests": [
+    "entrepreneurship"
+  ],
+  "scoreBreakdown": {
+    "valueAlignment": 70,
+    "communicationFit": 74,
+    "interestOverlap": 60,
+    "goalsAlignment": 71
+  },
+  "completedAt": "2026-10-29T12:20:17.821Z"
+}

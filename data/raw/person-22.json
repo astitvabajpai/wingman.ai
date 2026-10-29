@@ -1,0 +1,85 @@
+{
+  "linkedin": {
+    "fullName": "Kevin Hart",
+    "headline": "Kevin | Entrepreneur, Speaker & Author",
+    "about": "Passionate about building meaningful connections and creating impact. I believe in authenticity, growth, and the power of vulnerability.",
+    "location": "United States",
+    "experience": [
+      {
+        "title": "CEO & Founder",
+        "company": "Self",
+        "duration": "2015-Present",
+        "description": "Building brands and empowering others."
+      },
+      {
+        "title": "Speaker",
+        "company": "Global",
+        "duration": "2010-Present",
+        "description": "Sharing stories that inspire action."
+      }
+    ],
+    "education": [
+      {
+        "school": "Columbia University",
+        "degree": "BA",
+        "field": "Business",
+        "years": "2008-2012"
+      }
+    ],
+    "skills": [
+      "Leadership",
+      "Communication",
+      "Marketing",
+      "Strategy",
+      "Public Speaking"
+    ],
+    "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200"
+  },
+  "instagram": {
+    "username": "kevinhart",
+    "fullName": "Kevin Hart",
+    "bio": "✨ Living authentically | 🌍 Travel enthusiast | 💪 Fitness lover | 📚 Bookworm | Making moments that matter",
+    "followersCount": 163732,
+    "followingCount": 800,
+    "postsCount": 1200,
+    "profileImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+    "posts": [
+      {
+        "caption": "Morning coffee and deep thoughts ☕ #mondaymotivation",
+        "hashtags": [
+          "mondaymotivation",
+          "coffee",
+          "thoughts"
+        ],
+        "likesCount": 15000,
+        "commentsCount": 342,
+        "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+        "timestamp": "2024-10-28"
+      },
+      {
+        "caption": "Adventure awaits 🌄 #travel #explore",
+        "hashtags": [
+          "travel",
+          "explore",
+          "adventure"
+        ],
+        "likesCount": 22000,
+        "commentsCount": 567,
+        "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+        "timestamp": "2024-10-25"
+      },
+      {
+        "caption": "Grateful for this journey 🙏 #blessed #growth",
+        "hashtags": [
+          "blessed",
+          "growth",
+          "gratitude"
+        ],
+        "likesCount": 18000,
+        "commentsCount": 423,
+        "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+        "timestamp": "2024-10-22"
+      }
+    ]
+  }
+}
